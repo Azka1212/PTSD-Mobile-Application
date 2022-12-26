@@ -1,0 +1,137 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Suggestion"
+    android:orientation="vertical"
+    android:layout_margin="15dp"
+    android:background="#ffffff">
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        app:layout_constraintVertical_bias="0.0"
+        app:srcCompat="@drawable/ptsd" />
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:fontFamily= "monospace"
+        android:text="WEB HELP:"
+        android:textColor="#f17657"
+        />
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="7 CUPS"
+        android:textColor="#000000"
+
+        />
+    <TextView
+        android:id="@+id/tv14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="https://www.7cups.com/"
+        android:layout_marginBottom="20dp"
+        />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:fontFamily= "monospace"
+        android:text="PERSONAL HELP"
+        android:textColor="#f17657"
+        />
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="Jyoti Glory Bernard"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/tv5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="9746532109"
+        />
+    <TextView
+        android:id="@+id/tv4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="www.bookdoctor.bluecircle.en"
+        android:layout_marginBottom="25dp"
+        />
+    <TextView
+        android:id="@+id/tv6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="Pratibha Johanas"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/tv7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="8800442200"
+        />
+    <TextView
+        android:id="@+id/tv8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="Sector CHI-3,Gr.Down"
+        android:layout_marginBottom="25dp"
+        />
+    <TextView
+        android:id="@+id/tv9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="Prof. G.B.Steve"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/tv10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="0120-4250145"
+        />
+    <TextView
+        android:id="@+id/tv11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:fontFamily= "monospace"
+        android:text="Sector 18,New York"
+        android:layout_marginBottom="25dp"
+        />
+
+
+</LinearLayout>

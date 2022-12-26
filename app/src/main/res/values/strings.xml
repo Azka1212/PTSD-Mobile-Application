@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PTSDetector</string>
+    <string name="password">Enter Password</string>
+    <string name="btn">Sign In</string>
+    <string name="signup">If You Don\'t Have Account</string>
+    <string name="signup1">SignUp</string>
+    <string name="email">Enter Email</string>
+    <string name="city">Enter City</string>
+    <string name="password1">Forget The Password??</string>
+    <string name="uName">Enter UserName</string>
+    <string name="Phone">Enter Phone Number</string>
+    <string name="sup">SignUP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="sPara">Please enter the email to get the code to reset your password</string>
+    <string name="gEmail">Enter Email</string>
+    <string name="sBtn">Send Email</string>
+    <string name="passw">Enter Password</string>
+    <string name="forgetPass">Forget Password</string>
+    <string name="UserN">Enter Email</string>
+    <string name="back_to_login">Back To Login</string>
+    <string name="next">Next</string>
+    <string name="start">Start</string>
+</resources>
